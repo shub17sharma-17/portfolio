@@ -1,0 +1,1 @@
+import React from 'react'; import Navbar from './components/Navbar'; import Hero from './components/Hero'; import About from './components/About'; import MapSection from './components/MapSection'; import Blog from './components/Blog'; import Footer from './components/Footer'; export default function App(){return(<div><Navbar/><Hero/><About/><MapSection/><Blog/><Footer/></div>);}

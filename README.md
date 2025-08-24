@@ -1,2 +1,1 @@
-# portfolio
-My Merchant Navy Portfolio Website
+# Merchant Navy Portfolio

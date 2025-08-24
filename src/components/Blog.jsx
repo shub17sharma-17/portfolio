@@ -1,0 +1,1 @@
+import React from 'react'; import blogPosts from '../data/blogPosts'; export default function Blog(){return(<section id='blog'><h2>Blog</h2>{blogPosts.map((post,i)=>(<article key={i}><h3>{post.title}</h3><p>{post.date}</p><p>{post.content}</p></article>))}</section>);}

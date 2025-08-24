@@ -1,0 +1,1 @@
+export default [{title:'Life at Sea', date:'2025-08-01', content:'Sailing through the Indian Ocean...'}, {title:'Merchant Navy Training', date:'2025-08-10', content:'Training onboard taught me discipline...'}]
